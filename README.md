@@ -35,11 +35,15 @@ Las librerías de Python necesarias para ejecutar los notebooks y scripts se enc
 pip install -r requirements.txt
 ```
 
-📸 Vistas del Proyecto
-<p align="center"> <img src="assets/proceso_binarizacion.png" alt="Proceso de binarización de imágenes térmicas" width="600">
+<h2 align="center">📸 Vistas del Proyecto</h2>
 
-
-<em>Proceso de binarización y segmentación de las imágenes térmicas.</em> </p> <p align="center"> <img src="assets/gui_cuestionario.png" alt="Interfaz gráfica del cuestionario" width="600">
-
-
-<em>Interfaz gráfica del cuestionario de tamizaje.</em> </p>
+<p align="center">
+  <img src="assets/proceso_binarizacion.png" alt="Proceso de binarización de imágenes térmicas" width="600">
+  <br>
+  <em>Proceso de binarización y segmentación de las imágenes térmicas.</em>
+</p>
+<p align="center">
+  <img src="assets/gui_cuestionario.png" alt="Interfaz gráfica del cuestionario" width="600">
+  <br>
+  <em>Interfaz gráfica del cuestionario de tamizaje.</em>
+</p>
