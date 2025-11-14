@@ -12,14 +12,6 @@ Este trabajo ha sido publicado y está disponible en la revista **Ciencia Latina
 
 ---
 
-## Contenido del Repositorio
-
-* **/notebooks**: Contiene los Jupyter Notebooks que detallan el proceso de investigación:
-    * `1_Preprocesamiento_y_Extraccion_Caracteristicas.ipynb`: Código para cargar las imágenes, segmentar las regiones de interés y extraer las características térmicas.
-    * `2_Entrenamiento_Clasificador_SVM.ipynb`: Código para entrenar, validar y evaluar el modelo de clasificación.
-* **/data**: Incluye un conjunto de datos de ejemplo con imágenes termográficas de las diferentes clases. *(Nota: Por razones de privacidad, este es un subconjunto de datos de muestra)*.
-* `clasificador.py`: Un script de Python que implementa el clasificador ya entrenado para predecir la clase de una nueva imagen.
-
 ## Metodología
 
 1.  **Adquisición de Imágenes:** Se capturan imágenes termográficas de la región plantar.
