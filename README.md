@@ -4,6 +4,14 @@ Este repositorio contiene los algoritmos y cuadernos de trabajo del proyecto "Si
 
 El sistema se basa en el análisis de la distribución de temperatura en la superficie plantar del pie para identificar patrones anormales que puedan indicar un riesgo elevado de ulceración. Se utilizan algoritmos para el preprocesamiento de imágenes, la extracción de características térmicas y la clasificación mediante Máquinas de Soporte Vectorial (SVM).
 
+## 📄 Publicación
+
+Este trabajo ha sido publicado y está disponible en la revista **Ciencia Latina**. Puedes consultar el artículo completo en el siguiente enlace:
+
+* **[Ver Artículo en Ciencia Latina](https://ciencialatina.org/index.php/cienciala/article/view/8894/13245)**
+
+---
+
 ## Contenido del Repositorio
 
 * **/notebooks**: Contiene los Jupyter Notebooks que detallan el proceso de investigación:
@@ -25,3 +33,13 @@ Las librerías de Python necesarias para ejecutar los notebooks y scripts se enc
 
 ```bash
 pip install -r requirements.txt
+```
+
+📸 Vistas del Proyecto
+<p align="center"> <img src="assets/proceso_binarizacion.png" alt="Proceso de binarización de imágenes térmicas" width="600">
+
+
+<em>Proceso de binarización y segmentación de las imágenes térmicas.</em> </p> <p align="center"> <img src="assets/gui_cuestionario.png" alt="Interfaz gráfica del cuestionario" width="600">
+
+
+<em>Interfaz gráfica del cuestionario de tamizaje.</em> </p>
